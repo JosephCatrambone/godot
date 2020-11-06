@@ -633,7 +633,7 @@
 			<argument index="0" name="position" type="int">
 			</argument>
 			<description>
-				Returns a number of characters from the left of the string.
+				Returns the characters up to but not including the given position.
 			</description>
 		</method>
 		<method name="length">
